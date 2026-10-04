@@ -1,0 +1,10 @@
+# Nach Änderung Server neu starten. Keine Zugangsdaten hier eintragen.
+oauth:
+  # HTTPS-Adresse im Coolify-Reverse-Proxy, ohne abschließenden Slash.
+  public-url: ''
+  bind: '0.0.0.0'
+  port: 8765
+  client-id: 'lichesscraft'
+# Die erste Version spielt ausschließlich Standard-Schach, ungewertet.
+board:
+  square-size: 4

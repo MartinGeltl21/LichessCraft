@@ -1,0 +1,14 @@
+name: LichessCraft
+version: '0.1.0'
+main: org.lichesscraft.ChessPlugin
+api-version: '26.2'
+description: Schach in Minecraft mit Lichess Board API
+commands:
+  schach:
+    description: Brett, Account und Lichess-Partien verwalten
+    aliases: [chess]
+permissions:
+  lichesscraft.play:
+    default: true
+  lichesscraft.admin:
+    default: op

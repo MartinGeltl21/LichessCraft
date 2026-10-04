@@ -1,0 +1,6 @@
+/target/
+/.idea/
+*.iml
+/private/
+accounts.enc*
+server.key

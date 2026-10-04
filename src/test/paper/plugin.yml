@@ -1,0 +1,5 @@
+name: LichessCraftSmoke
+version: '1'
+main: org.lichesscraft.PaperSmoke
+api-version: '26.2'
+depend: [LichessCraft]
